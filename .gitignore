@@ -1,0 +1,10 @@
+# big data / generated
+pic/
+prac2/dtset/
+segmentation_yolov8/
+
+# notebooks you don't want tracked
+prac1.ipynb
+
+# pdf outside main folder
+ECG_final.pdf
